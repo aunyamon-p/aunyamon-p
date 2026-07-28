@@ -4,7 +4,7 @@
 🏆 Scholarship Student  
 💻 Interested in Full-stack Development, Backend, DevOps, and Cloud
 
-I'm passionate about building web applications and exploring the entire software development lifecycle—from frontend and backend development to deployment, DevOps, and application security.
+I'm passionate about building web applications and exploring the entire software development lifecycle from frontend and backend development to deployment, DevOps, and application security.
 
 Currently seeking internship opportunities to contribute to real-world software projects while learning from experienced engineering teams.
 
