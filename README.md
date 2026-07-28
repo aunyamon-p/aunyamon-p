@@ -45,7 +45,6 @@ Web-based library management system featuring relational database design and RES
 
 ## GitHub Stats
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aunyamon-p&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=aunyamon-p&show_icons=true&theme=tokyonight)
 
 ---
 
