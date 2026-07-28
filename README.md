@@ -11,26 +11,18 @@ Currently seeking internship opportunities to contribute to real-world software 
 ---
 
 ## Tech Stack
+**🎨 Frontend** : React • Angular • Tailwind CSS
 
-**🎨 Frontend**  
-React • Angular • Tailwind CSS
+**⚙️ Backend** :Node.js • Spring Boot • RESTful APIs
 
-**⚙️ Backend**  
-Node.js • Spring Boot • RESTful APIs
+**🗄️ Database** : MySQL • SQL Server • MongoDB
 
-**🗄️ Database**  
-MySQL • SQL Server • MongoDB
-
-**🛠️ Tools**  
-Git • GitHub • VS Code • Postman
+**🛠️ Tools** : Git • GitHub • VS Code • Postman
 
 ---
 
 ## Currently Learning
-
-- DevOps
-- Cloud Computing
-- Application Security
+DevOps • Cloud Computing • Application Security
 
 ---
 
@@ -55,14 +47,15 @@ Web-based library management system featuring relational database design and RES
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aunyamon-p&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aunyamon-p&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aunyamon-p&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aunyamon-p&layout=compact&theme=github_dark)
 
 ---
 
 ## Connect with Me
-
 📧 Email: **aunyamon.plun@gmail.com**
+
 💼 LinkedIn: https://www.linkedin.com/in/aunyamon-plun
+
 🌐 Portfolio: https://aunya-portfolio.lovable.app
