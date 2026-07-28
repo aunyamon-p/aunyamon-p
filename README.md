@@ -19,7 +19,7 @@ Currently seeking internship opportunities to contribute to real-world software 
 
 **🛠️ Tools** : Git • GitHub • VS Code • Postman
 
-### Currently Learning
+#### Currently Learning
 DevOps • Cloud Computing • Application Security
 
 ---
