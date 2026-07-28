@@ -12,11 +12,8 @@ Currently seeking internship opportunities to contribute to real-world software 
 
 ## Tech Stack
 **🎨 Frontend** : React • Angular • Tailwind CSS
-
 **⚙️ Backend** :Node.js • Spring Boot • RESTful APIs
-
 **🗄️ Database** : MySQL • SQL Server • MongoDB
-
 **🛠️ Tools** : Git • GitHub • VS Code • Postman
 
 ### Currently Learning
