@@ -2,22 +2,22 @@
 
 🎓 Computer Science Student at Bangkok University  
 🏆 Scholarship Student  
-💻 Interested in Full-stack Development, Backend, DevOps, and Cloud
+💻 Interested in Full-stack Development, Backend, DevOps, and Cloud Technologies.
 
-I'm passionate about building web applications and exploring the entire software development lifecycle from frontend and backend development to deployment, DevOps, and application security.
+I'm passionate about building web applications and exploring the entire software development lifecycle, from frontend and backend development to deployment, DevOps, and application security.
 
 Currently seeking internship opportunities to contribute to real-world software projects while learning from experienced engineering teams.
 
 ---
 
 ## Tech Stack
-**🎨 Frontend** : React • Angular • Tailwind CSS
+**🎨 Frontend:** React • Angular • Tailwind CSS
 
-**⚙️ Backend** :Node.js • Spring Boot • RESTful APIs
+**⚙️ Backend:** Node.js • Spring Boot • RESTful APIs
 
-**🗄️ Database** : MySQL • SQL Server • MongoDB
+**🗄️ Database:** MySQL • SQL Server • MongoDB
 
-**🛠️ Tools** : Git • GitHub • VS Code • Postman
+**🛠️ Tools:** Git • GitHub • VS Code • Postman
 
 ### Currently Learning
 DevOps • Cloud Computing • Application Security
@@ -44,13 +44,11 @@ Web-based library management system featuring relational database design and RES
 ---
 
 ## GitHub Stats
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aunyamon-p&layout=compact&theme=tokyonight)
+![Most Used Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aunyamon-p&layout=compact&theme=tokyonight)
 
 ---
 
 ## Connect with Me
-📧 Email: **aunyamon.plun@gmail.com**
-
-💼 LinkedIn: https://www.linkedin.com/in/aunyamon-plun
-
-🌐 Portfolio: https://aunya-portfolio.lovable.app
+- Email: **aunyamon.plun@gmail.com**
+- LinkedIn: https://www.linkedin.com/in/aunyamon-plun
+- Portfolio: https://aunya-portfolio.lovable.app
