@@ -22,6 +22,8 @@ Currently seeking internship opportunities to contribute to real-world software 
 ### Currently Learning
 DevOps • Cloud Computing • Application Security
 
+![Most Used Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aunyamon-p&layout=compact&theme=tokyonight)
+
 ---
 
 ## Featured Projects
@@ -40,10 +42,6 @@ Kanban-based task management application with full CRUD functionality and databa
 **React • SQL Server • RESTful APIs**
 
 Web-based library management system featuring relational database design and REST API integration.
-
----
-
-![Most Used Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aunyamon-p&layout=compact&theme=tokyonight)
 
 ---
 
