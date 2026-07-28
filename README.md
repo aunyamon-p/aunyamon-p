@@ -21,7 +21,6 @@ Currently seeking internship opportunities to contribute to real-world software 
 
 ### Currently Learning
 DevOps • Cloud Computing • Application Security
-
 ![Most Used Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aunyamon-p&layout=compact&theme=tokyonight)
 
 ---
