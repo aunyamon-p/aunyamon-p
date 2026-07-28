@@ -12,16 +12,16 @@ Currently seeking internship opportunities to contribute to real-world software 
 
 ## Tech Stack
 
-**Frontend**  
+**🎨 Frontend**  
 React • Angular • Tailwind CSS
 
-**Backend**  
+**⚙️ Backend**  
 Node.js • Spring Boot • RESTful APIs
 
-**Database**  
+**🗄️ Database**  
 MySQL • SQL Server • MongoDB
 
-**Tools**  
+**🛠️ Tools**  
 Git • GitHub • VS Code • Postman
 
 ---
@@ -36,17 +36,17 @@ Git • GitHub • VS Code • Postman
 
 ## Featured Projects
 
-### Lost & Found Management System
+### 📦 Lost & Found Management System
 **React • Spring Boot • MySQL**
 
 Full-stack web application for managing lost and found items with RESTful APIs, database design, and a responsive user interface.
 
-### TodoList Website
+### ✅ TodoList Website
 **React • Node.js • MongoDB**
 
 Kanban-based task management application with full CRUD functionality and database integration.
 
-### Library Management System
+### 📚 Library Management System
 **React • SQL Server • RESTful APIs**
 
 Web-based library management system featuring relational database design and REST API integration.
@@ -55,18 +55,14 @@ Web-based library management system featuring relational database design and RES
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aunyamon&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aunyamon-p&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aunyamon&layout=compact&theme=tokyonight)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aunyamon&theme=tokyo-night)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aunyamon-p&layout=compact&theme=tokyonight)
 
 ---
 
 ## Connect with Me
 
-- 📧 Email: **aunyamon.plun@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/aunyamon-plun
-
-<!-- Add your portfolio after it's published -->
-<!-- 🌐 Portfolio: https://aunya-portfolio.lovable.app -->
+📧 Email: **aunyamon.plun@gmail.com**
+💼 LinkedIn: https://www.linkedin.com/in/aunyamon-plun
+🌐 Portfolio: https://aunya-portfolio.lovable.app
