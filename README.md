@@ -1,4 +1,4 @@
-# Hi, I'm Aunyamon 👋
+# Hi, I'm Aunyamon
 
 🎓 Computer Science Student at Bangkok University  
 🏆 Scholarship Student  
@@ -10,7 +10,7 @@ Currently seeking internship opportunities to contribute to real-world software 
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 **Frontend**  
 React • Angular • Tailwind CSS
@@ -26,7 +26,7 @@ Git • GitHub • VS Code • Postman
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - DevOps
 - Cloud Computing
@@ -34,7 +34,7 @@ Git • GitHub • VS Code • Postman
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 ### Lost & Found Management System
 **React • Spring Boot • MySQL**
@@ -53,7 +53,7 @@ Web-based library management system featuring relational database design and RES
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aunyamon&show_icons=true&theme=tokyonight)
 
@@ -63,7 +63,7 @@ Web-based library management system featuring relational database design and RES
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 - 📧 Email: **aunyamon.plun@gmail.com**
 - 💼 LinkedIn: https://www.linkedin.com/in/aunyamon-plun
