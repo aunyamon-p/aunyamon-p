@@ -29,6 +29,11 @@ DevOps • Cloud Computing • Application Security
 
 ## Featured Projects
 
+### 🤖 Smart Receipt & Tax Organizer
+**Python • Gemini API • Streamlit • Prompt Engineering**
+
+AI-powered application for extracting receipt and tax invoice information into structured financial reports with automated Excel and Google Sheets export.
+
 ### 📦 Lost & Found Management System
 **React • Spring Boot • MySQL**
 
