@@ -34,11 +34,6 @@ DevOps • Cloud Computing • Application Security
 
 Full-stack web application for managing lost and found items with RESTful APIs, database design, and a responsive user interface.
 
-### ✅ TodoList Website
-**React • Node.js • MongoDB**
-
-Kanban-based task management application with full CRUD functionality and database integration.
-
 ### 📚 Library Management System
 **React • SQL Server • RESTful APIs**
 
