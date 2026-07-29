@@ -32,7 +32,7 @@ DevOps • Cloud Computing • Application Security
 ### 🤖 Smart Receipt & Tax Organizer
 **Python • Gemini API • Streamlit • Prompt Engineering**
 
-AI-powered application for extracting receipt and tax invoice information into structured financial reports with automated Excel and Google Sheets export.
+AI-powered application for extracting receipt data and generating structured financial reports.
 
 ### 📦 Lost & Found Management System
 **React • Spring Boot • MySQL**
