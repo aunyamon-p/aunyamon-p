@@ -49,4 +49,4 @@ Web-based library management system featuring relational database design and RES
 ## Connect with Me
 - Email: **aunyamon.plun@gmail.com**
 - LinkedIn: [linkedin.com/in/aunyamon-plun](https://www.linkedin.com/in/aunyamon-plun)
-- Portfolio: [aunya-portfolio.lovable.app](https://aunya-portfolio.lovable.app)
+- Portfolio: [aunya-portfolio.lovable.app](ttps://aunyamon-portfolio.vercel.app/)
